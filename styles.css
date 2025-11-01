@@ -110,4 +110,15 @@ background: aquamarine;
 color:white;
 
 }
+.university-name {
+  color:aqua;
+  padding: 12px 0;
+  text-align: center;
+  font-size: 26px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  display: inline-block;
+}
+
 
